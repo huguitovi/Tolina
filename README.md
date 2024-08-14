@@ -3,7 +3,7 @@
 
 ## Sobre Tolina
 
-Tolina es un dirigible esférico, proyecto perteneciente a los estudiantes del segundo cuatrimestre de 2020 de la materia Proyecto Integrador II, de la carrera de [Ingenieria Espacial](http://www.unsam.edu.ar/ingenierias/#ingenierias) perteneciente a
+Tolina es un dirigible esférico, proyecto perteneciente a los estudiantes del segundo cuatrimestre de 2020 de la materia Proyecto Integrador II, de la carrera de [Ingenieria Espacial]([http://www.unsam.edu.ar/ingenierias/#ingenierias](https://www.unsam.edu.ar/escuelas/ecyt/738/ecyt/sistemas-espaciales)) perteneciente a
 la [Escuela de Ciencia y Tecnología](http://www.unsam.edu.ar/escuelas/ciencia/) de la [UNSAM](https://www.unsam.edu.ar/).
 
 ## Ingeniería Espacial
